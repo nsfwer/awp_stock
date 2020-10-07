@@ -1,2 +1,2 @@
-# csgo-maps-awp_stock
+# awp_stock
 Моя первая в жизни карта
