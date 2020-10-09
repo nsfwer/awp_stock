@@ -5,9 +5,9 @@ My first map in my life
 
 Stars:
 
-2 [☑]
-20 [We can]
-100 [Unreal]
+1. 2 [☑]
+2. 20 [We can]
+3. 100 [Unreal]
 
 -//-
 
